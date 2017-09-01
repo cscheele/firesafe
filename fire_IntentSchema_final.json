@@ -1,0 +1,69 @@
+{
+	"intents": [
+	{
+		"intent": "HelpIntent"
+	},
+	{
+		"intent": "NumberIntent",
+		"slots": [
+		{
+			"name": "number",
+			"type": "AMAZON.NUMBER"
+		},
+		{
+			"name": "ordinal",
+			"type": "ORDINALS"
+		},
+		{
+			"name": "loc",
+			"type": "LOCATIONS"
+		}
+		]
+	},
+	{
+		"intent": "PanicIntent"
+	},
+	{
+		"intent": "YesNoIntent",
+		"slots": [
+		{
+			"name": "response",
+			"type": "YES_NO"
+		}
+		]
+	},
+	{
+		"intent": "BlockedIntent",
+		"slots": [
+		{
+			"name": "location",
+			"type": "LOCATIONS"
+		}
+		]
+	},
+	{
+		"intent": "AMAZON.RepeatIntent"
+	},
+	{
+		"intent": "AMAZON.StopIntent"
+	},
+	{
+		"intent": "TrappedIntent"
+	},
+	{
+		"intent": "ExtingIntent"
+	},
+	{
+		"intent": "HereIntent"
+	},
+	{
+		"intent": "SafeIntent"
+	},
+	{
+		"intent": "NextIntent"
+	},
+	{
+		"intent": "EscapeIntent"
+	}
+	]
+}

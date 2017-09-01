@@ -1,0 +1,82 @@
+PanicIntent im scared
+PanicIntent help
+PanicIntent help me
+PanicIntent I need help
+PanicIntent Please help
+PanicIntent i dont know
+PanicIntent dont know
+
+NumberIntent the {number} {loc}
+NumberIntent {loc} {number}
+NumberIntent {number}
+NumberIntent the {ordinal} {loc}
+NumberIntent the {ordinal}
+NumberIntent the {loc}
+NumberIntent {loc}
+NumberIntent {ordinal}
+
+YesNoIntent {response}
+
+BlockedIntent this {location} is blocked
+BlockedIntent it's blocked
+
+AMAZON.RepeatIntent repeat
+AMAZON.RepeatIntent what
+AMAZON.RepeatIntent i cant hear you
+
+NextIntent next
+NextIntent okay
+NextIntent done
+
+EscapeIntent escape
+EscapeIntent i need to escape
+EscapeIntent get out
+EscapeIntent get out of the building
+EscapeIntent where do i go
+EscapeIntent i need help getting out
+EscapeIntent i need help getting out of the building
+EscapeIntent how do i get out of the building
+EscapeIntent how do i get out
+EscapeIntent i need to get out
+EscapeIntent finding an exit route
+EscapeIntent getting out of the building
+EscapeIntent how do i get out of the building
+EscapeIntent how do i escape
+EscapeIntent escaping
+
+HereIntent here
+HereIntent im here
+HereIntent im at the door
+HereIntent im at the stairs
+
+SafeIntent safe
+SafeIntent im safe
+SafeIntent im out
+SafeIntent i got out
+SafeIntent i have left the building
+SafeIntent im out of the building
+SafeIntent i left
+
+ExtingIntent putting out a small fire
+ExtingIntent putting out a fire
+ExtingIntent put out a fire
+ExtingIntent put out a small fire
+ExtingIntent use the fire extinguisher
+ExtingIntent use the extinguisher
+ExtingIntent how do i use the extinguisher
+ExtingIntent how do i use the fire extinguisher
+ExtingIntent how do i use a fire extinguisher
+ExtingIntent how do i use an extinguisher
+ExtingIntent small fire
+ExtingIntent there is a small fire
+ExtingIntent put out the fire
+
+TrappedIntent im trapped
+TrappedIntent im stuck
+TrappedIntent i cant get out
+TrappedIntent the door is hot
+TrappedIntent the fire is outside my room
+TrappedIntent the fire is outside my door
+TrappedIntent i cant get out of my room
+TrappedIntent i cant move
+TrappedIntent im stuck in my room
